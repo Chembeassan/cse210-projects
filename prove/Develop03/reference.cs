@@ -22,6 +22,7 @@ namespace ScriptureProgram
             this.endVerse = endVerse;
         }
 
+
         public string CreateReference()
         {
             if (endVerse > 0)
